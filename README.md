@@ -65,6 +65,42 @@ TARGET=http://localhost:5000
 
 npm run dev
 
+---
+
+### 📸 Screenshots
+
+### Signup Page
+
+<img width="818" height="423" alt="image" src="https://github.com/user-attachments/assets/f1c7ab05-0c1d-4b51-b967-5153168ddde1" />
+
+### Login Page
+
+<img width="851" height="440" alt="image" src="https://github.com/user-attachments/assets/74434768-8787-4087-a9f5-10d79e5e939d" />
+
+### Home Page
+
+<img width="1010" height="523" alt="image" src="https://github.com/user-attachments/assets/69cb750f-2202-43c1-9746-39c43112e93b" />
+
+### Auction Page
+
+<img width="1021" height="525" alt="image" src="https://github.com/user-attachments/assets/cb5eeae1-a266-4f90-989c-bebeb404a38e" />
+
+### profile Page
+
+<img width="1017" height="525" alt="image" src="https://github.com/user-attachments/assets/45f37427-54fc-4c75-9fd9-652384f39017" />
+
+### Create Auction Page
+
+<img width="1030" height="529" alt="image" src="https://github.com/user-attachments/assets/e828c3c0-4345-4367-9cad-573397e4870a" />
+
+
+
+
+
+
+
+
+
 
 
 
